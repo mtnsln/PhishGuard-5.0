@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software in research, cite the release and the associated evaluation report."
+title: "PhishGuard: Offline URL Risk Analysis and Reproducible Evaluation Framework"
+version: 5.0.0
+date-released: 2026-11-23
+license: MIT
+# Add verified author names and ORCIDs before public release.
+type: software
